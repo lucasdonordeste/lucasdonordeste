@@ -10,12 +10,6 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [http://lucasrodrigues.dev.br/](http://lucasrodrigues.dev.br/)
 
-- 📝 Eu escrevo artigos regularmente sobre [http://lucasrodrigues.dev.br/](http://lucasrodrigues.dev.br/)
-
-- 💬 Pergunte-me sobre **HTML, CSS, JavaScript, Ruby on Rails, Ionic**
-
-- 📫 Como me encontrar **lucas.rodrigues@euax.com.br**
-
 - 📄 Conheça minhas experiências [https://www.instagram.com/lucasdonordeste](https://www.instagram.com/lucasdonordeste)
 
 - ⚡ Curiosidade **Criador do projeto Nordestilidades, do aplicativo Bebelivery e sócio na Vou de Buggy**
@@ -35,5 +29,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdonordeste&show_icons=true&locale=en&layout=compact" alt="lucasdonordeste" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasdonordeste&show_icons=true&locale=en" alt="lucasdonordeste" /></p>
-
 

@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Lucas Rodrigues</h1>
 <h3 align="center">Desenvolvedor Full Stack | Ruby on Rails | Apaixonado pelo nordeste</h3>
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdonordeste&" alt="lucasdonordeste" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdonordeste&locale=pt-BR&count_private=true" alt="lucasdonordeste" /></p>
 
 <p align="left"> <a href="https://twitter.com/lucasdonordeste" target="blank"><img src="https://img.shields.io/twitter/follow/lucasdonordeste?logo=twitter&style=for-the-badge" alt="lucasdonordeste" /></a> </p>
 

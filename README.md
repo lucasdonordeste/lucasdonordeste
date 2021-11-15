@@ -2,8 +2,6 @@
 <h3 align="center">Desenvolvedor Full Stack | Ruby on Rails | Apaixonado pelo nordeste</h3>
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdonordeste&locale=pt-BR&count_private=true" alt="lucasdonordeste" /></p>
 
-<p align="left"> <a href="https://twitter.com/lucasdonordeste" target="blank"><img src="https://img.shields.io/twitter/follow/lucasdonordeste?logo=twitter&style=for-the-badge" alt="lucasdonordeste" /></a> </p>
-
 - 🔭 Atualmente, estou trabalhando no [Grupo Euax](https://grupoeuax.com.br/)
 
 - 🌱 Atualmente estou aprendendo **Ruby on Rails**
@@ -16,10 +14,8 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://twitter.com/lucasdonordeste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lucasdonordeste" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/lucasdonordeste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasdonordeste" height="30" width="40" /></a>
-<a href="https://fb.com/lucasdonordeste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lucasdonordeste" height="30" width="40" /></a>
-<a href="https://instagram.com/lucasdonordeste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucasdonordeste" height="30" width="40" /></a>
 <a href="https://discord.gg/lucasdonordeste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lucasdonordeste" height="30" width="40" /></a>
 </p>
 

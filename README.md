@@ -25,7 +25,7 @@
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasdonordeste&show_icons=true&locale=pt-BR&count_private=true" alt="lucasdonordeste" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdonordeste&locale=pt-BR&count_private=true" alt="lucasdonordeste" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdonordeste&locale=pt-BR&count_private=true" alt="lucasdonordeste" /></p>
 
 
 

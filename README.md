@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Full Stack | Ruby on Rails | Apaixonado pelo nordeste</h3>
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdonordeste&locale=pt-BR&count_private=true" alt="lucasdonordeste" /></p>
 
-- 🔭 Atualmente, estou trabalhando no [Grupo Euax](https://grupoeuax.com.br/)
+- 🔭 Atualmente, estou trabalhando na [Geduc Education](https://www.geduc.com.br/)
 
 - 🌱 Atualmente estou aprendendo **Ruby on Rails**
 

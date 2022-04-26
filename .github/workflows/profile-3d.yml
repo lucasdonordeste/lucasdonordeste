@@ -13,7 +13,7 @@ jobs :
       - usa : actions/checkout@v2 
       - usa : yoshi389111/github-profile-3d-contrib@0.6.0 
         env :
-           GITHUB_TOKEN : ${{ secrets.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 }} 
+           GITHUB_TOKEN : ${{ secrets.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 }} 
           USERNAME : ${{ github.lucasdonordeste }} 
       - name : Commit & Empurre 
         a execução : | 

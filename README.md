@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, eu sou Lucas Rodrigues</h1>
 <h3 align="center">Desenvolvedor Full Stack | Ruby on Rails | Apaixonado pelo nordeste</h3>
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdonordeste&locale=pt-BR&count_private=true" alt="lucasdonordeste" /></p>
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdonordeste&&count_private=true" alt="lucasdonordeste" /></p>
 
 - 🔭 Atualmente, estou trabalhando na [Geduc Education](https://www.geduc.com.br/)
 

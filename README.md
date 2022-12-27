@@ -6,7 +6,7 @@
 
 - 🌱 Atualmente estou aprendendo **Ruby on Rails**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [http://lucasrodrigues.dev.br/](http://lucasrodrigues.dev.br/)
+<!-- - 👨‍💻 Todos os meus projetos estão disponíveis em [http://lucasrodrigues.dev.br/](http://lucasrodrigues.dev.br/) -->
 
 - 📄 Conheça minhas experiências [https://www.instagram.com/lucasdonordeste](https://www.instagram.com/lucasdonordeste)
 

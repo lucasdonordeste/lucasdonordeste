@@ -4,13 +4,13 @@
 
 - 🔭 Atualmente, estou trabalhando na [Geduc Education](https://www.geduc.com.br/)
 
-- 🌱 Atualmente estou aprendendo **Ruby on Rails**
+- 🌱 Atualmente estou aprendendo **Dart avançado, Flutter, Backend Aqueduct e Angular Dart **
 
 <!-- - 👨‍💻 Todos os meus projetos estão disponíveis em [http://lucasrodrigues.dev.br/](http://lucasrodrigues.dev.br/) -->
 
 - 📄 Conheça minhas experiências [https://www.instagram.com/lucasdonordeste](https://www.instagram.com/lucasdonordeste)
 
-- ⚡ Curiosidade **Criador do projeto Nordestilidades, do aplicativo Bebelivery e sócio na Vou de Buggy**
+- ⚡ Curiosidade **Criador do projeto Nordestilidades e do aplicativo Supercom**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">

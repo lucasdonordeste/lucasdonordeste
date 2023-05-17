@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Full Stack | PHP | Ruby on Rails | Flutter | Apaixonado pelo nordeste</h3>
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdonordeste&&count_private=true" alt="lucasdonordeste" /></p>
 
-- 🔭 Atualmente, estou trabalhando na [Geduc Education](https://www.geduc.com.br/)
+<!-- - 🔭 Atualmente, estou trabalhando na [Geduc Education](https://www.geduc.com.br/) -->
 
 - 🌱 Atualmente estou aprendendo **Dart avançado, Flutter, Backend Aqueduct e Angular Dart**
 

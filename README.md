@@ -4,7 +4,7 @@
 
 <!-- - 🔭 Atualmente, estou trabalhando na [Geduc Education](https://www.geduc.com.br/) -->
 
-- 🌱 Atualmente estou aprendendo **Dart avançado, Flutter, Backend Aqueduct e Angular Dart**
+- 🌱 Atualmente estou aprendendo **Dart avançado, Flutter, Backend Aqueduct e Angular Dart.**
 
 <!-- - 👨‍💻 Todos os meus projetos estão disponíveis em [http://lucasrodrigues.dev.br/](http://lucasrodrigues.dev.br/) -->
 

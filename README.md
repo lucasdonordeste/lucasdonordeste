@@ -15,6 +15,13 @@
 
 <div align="center">
 
+<!-- 3D Contributions -->
+<img src="https://raw.githubusercontent.com/lucasdonordeste/lucasdonordeste/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+<div align="center">
+
 <!-- Profile Views Counter with Glow Effect -->
 <img src="https://komarev.com/ghpvc/?username=lucasdonordeste&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
@@ -34,29 +41,6 @@
 
 
 
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 📈 Atividade de Código
-
-<div align="center">
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!-- Coding Time Stats -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=lucasdonordeste&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&layout=compact" />
-
-</div>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
 
 ## 🔐 Ethical Hacking & Cybersecurity
 
@@ -133,27 +117,6 @@ done
 
 <br>
 
-### Encontre-me em:
-
-<br>
-
-<a href="https://linkedin.com/in/lucasdonordeste" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://discord.gg/lucasdonordeste" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-
-<a href="https://instagram.com/lucasdonordeste" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-
-<a href="mailto:contato@lucasrodrigues.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br><br>
 
 </div>
 
@@ -162,21 +125,6 @@ done
 
 <br>
 
-## 📊 Contribuições Detalhadas
-
-<div align="center">
-
-<!-- 3D Contributions -->
-<img src="https://raw.githubusercontent.com/lucasdonordeste/lucasdonordeste/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
-<br>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
 
 <div align="center">
 

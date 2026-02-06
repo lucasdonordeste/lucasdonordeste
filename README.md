@@ -1,34 +1,202 @@
-<h1 align="center">Olá 👋, eu sou Lucas Rodrigues</h1>
-<h3 align="center">Desenvolvedor Full Stack | PHP | Ruby on Rails | Flutter | Apaixonado pelo nordeste</h3>
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasdonordeste&&count_private=true" alt="lucasdonordeste" /></p>
+<div align="center">
 
-<!-- - 🔭 Atualmente, estou trabalhando na [Geduc Education](https://www.geduc.com.br/) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Lucas%20Rodrigues&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Ethical%20Hacker%20|%20Nordeste%20Enthusiast&descAlignY=51&descAlign=50"/>
 
-- 🌱 Atualmente estou aprendendo **Dart avançado, Flutter, Backend Aqueduct e Angular Dart.**
+</div>
 
-<!-- - 👨‍💻 Todos os meus projetos estão disponíveis em [http://lucasrodrigues.dev.br/](http://lucasrodrigues.dev.br/) -->
+<div align="center">
+  
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=600&height=60&lines=Desenvolvedor+Full+Stack+Web+%2F+Mobile;Flutter+%7C+Ruby+on+Rails+%7C+PHP+%7C+Laravel;Ethical+Hacker+%7C+Seguran%C3%A7a+Cibern%C3%A9tica;Apaixonado+por+Automa%C3%A7%C3%A3o+e+IA;" alt="Typing SVG" /></a>
 
-- 📄 Conheça minhas experiências [https://www.instagram.com/lucasdonordeste](https://www.instagram.com/lucasdonordeste)
+</div>
 
-- ⚡ Curiosidade **Criador do projeto Nordestilidades e do aplicativo Supercom**
+<br>
 
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
+<div align="center">
 
-<a href="https://linkedin.com/in/lucasdonordeste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucasdonordeste" height="30" width="40" /></a>
-<a href="https://discord.gg/lucasdonordeste" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lucasdonordeste" height="30" width="40" /></a>
-</p>
+<!-- Profile Views Counter with Glow Effect -->
+<img src="https://komarev.com/ghpvc/?username=lucasdonordeste&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
-<h3 align="left">Idiomas e Ferramentas:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://cordova.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_cordova/apache_cordova-icon.svg" alt="apachecordova" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+<!-- Social Badges with Hover Animation -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucasdonordeste)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/lucasdonordeste)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lucasdonordeste)
+
+</div>
+
+<br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
 
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasdonordeste&show_icons=true&locale=pt-BR&count_private=true" alt="lucasdonordeste" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasdonordeste&locale=pt-BR&count_private=true" alt="lucasdonordeste" /></p>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<br>
 
+## 📈 Atividade de Código
 
+<div align="center">
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
+<!-- Coding Time Stats -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/wakatime?username=lucasdonordeste&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&layout=compact" />
 
+</div>
+
+<br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 🔐 Ethical Hacking & Cybersecurity
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="400">
+
+```bash
+#!/bin/bash
+# Atuação profissional em segurança cibernética
+echo "Ethical Hacker | Penetration Testing | Security Researcher"
+
+security_focus=(
+  "Web Application Security"
+  "Mobile App Security"
+  "Network Penetration Testing"
+  "API Security Testing"
+  "OWASP Top 10"
+  "Security Code Review"
+)
+
+for skill in "${security_focus[@]}"; do
+  echo "✓ $skill"
+done
+```
+
+</div>
+
+<br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 💡 Filosofia de Desenvolvimento
+
+<div align="center">
+
+> "A tecnologia só faz sentido quando serve às pessoas e respeita suas origens."
+
+<br>
+
+| Princípio | Descrição |
+|-----------|-----------|
+| 🎯 **Foco no Usuário** | Código existe para resolver problemas reais |
+| 🔒 **Segurança First** | Todo código deve ser seguro por design |
+| 🧪 **Testes Automatizados** | Confiança através de cobertura de testes |
+| 📖 **Clean Code** | Código legível é código sustentável |
+| 🔄 **Automação** | Se pode ser automatizado, deve ser |
+| 🌱 **Aprendizado Contínuo** | A tecnologia não para, eu também não |
+
+</div>
+
+<br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 🤝 Vamos Conectar?
+
+<div align="center">
+
+<br>
+
+**Aberto para:**
+- 💼 Oportunidades de trabalho
+- 🤝 Colaborações em projetos open source
+- 💡 Discussões sobre tecnologia e inovação
+- 🎤 Mentorias e palestras
+- 🌵 Projetos relacionados ao Nordeste
+
+<br>
+
+### Encontre-me em:
+
+<br>
+
+<a href="https://linkedin.com/in/lucasdonordeste" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="https://discord.gg/lucasdonordeste" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+</a>
+
+<a href="https://instagram.com/lucasdonordeste" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+<a href="mailto:contato@lucasrodrigues.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br><br>
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+## 📊 Contribuições Detalhadas
+
+<div align="center">
+
+<!-- 3D Contributions -->
+<img src="https://raw.githubusercontent.com/lucasdonordeste/lucasdonordeste/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+<br>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<div align="center">
+
+### ⚡ "Do Nordeste para o Mundo, através do código" 🌵
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+
+<br><br>
+
+**Obrigado pela visita!** 
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
+<br>
+
+<em>Feito com ❤️ e muito ☕ do Ceará</em>
+
+</div>
+
+<!-- Animated Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
